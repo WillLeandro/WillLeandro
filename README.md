@@ -8,7 +8,7 @@ https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit
 <div> --->
   
   <a href = "mailto:laswsdata@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/leandro-alves-79683576/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ### Sobre mim
 Sou facinado por dados, de traçar planos e trazer soluções para transformar o mundo, gosto de estar envolvido em projetos que possam me trazer novos conhecimentos e habilidades de raciocínio e poder melhor a vida de alguém. 
