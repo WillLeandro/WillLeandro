@@ -13,7 +13,7 @@ https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit
 ### Sobre mim
 Sou facinado por dados, de traçar planos e trazer soluções para transformar o mundo, gosto de estar envolvido em projetos que possam me trazer novos conhecimentos e habilidades de raciocínio e poder melhor a vida de alguém. 
 
-### Ferramentas
+### Skills
 
 <div style="display: inline_block"><br>
 <img align="center" src=https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
