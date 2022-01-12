@@ -40,7 +40,7 @@ Sou curioso e encontrei uma área que venha satisfazer minha curiosidade, a de d
 <img align="center" src=https://img.shields.io/badge/Python-DCDCDC?style=for-the-badge&logo=python&logoColor=white">
 <img align="center" src=https://img.shields.io/badge/Numpy-DCDCDC?style=for-the-badge&logo=numpy&logoColor=white">
 <img align="center" src=https://img.shields.io/badge/Pandas-DCDCDC?style=for-the-badge&logo=pandas&logoColor=white">
-<img align="center" src=https://img.shields.io/badge/Plotly-DCDCDC?style=for-the-badge&logo=plotly&logoColor=white">  
+<img align="center" src=https://img.shields.io/badge/Plotly-DCDCDC?style=for-the-badge&logo=plotly&logoColor=DCDCDC">  
 <img align="center" src=https://img.shields.io/badge/BigQuery-DCDCDC?style=for-the-badge&logo=&logoColor=white">
 <img align="center" src=https://img.shields.io/badge/DataStudio-DCDCDC?style=for-the-badge&logo=&logoColor=">
                                                                                                                  
