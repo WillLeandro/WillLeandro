@@ -47,6 +47,7 @@ Sou facinado por dados, de traçar planos e trazer soluções para transformar o
 
 <!---
 - [Courses](https://www.treinaweb.com.br/cursos-online?q=fagner+pinheiro) 👨🏼‍🏫 - It's are technical courses on many technologies, such as Django, Flask, Python, Kotlin, Flutter, Dart, Git and more
+                                                                                                                 <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green?style=for-the-badge&logo=pandas&logoColor=white">
 - [Blog](https://www.treinaweb.com.br/blog/author/fagner-pinheiro/) ✍🏼 - I'm write about many things.
 - [Website](https://fagnerpsantos.dev/) 💻 - Working on it.
 <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
