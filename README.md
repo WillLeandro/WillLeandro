@@ -31,7 +31,7 @@ Sou facinado por dados, de traçar planos e trazer soluções para transformar o
 ### Skills
 
 <div style="display: inline_block"><br>
-<img align="center" src=https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
+<img align="center" src=https://img.shields.io/badge/Jupyter-F5FFFA.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
 <img align="center" src=https://img.shields.io/badge/Colab-F9AB00.svg?&style=for-the-badge&logo=colab&logoColor=white">
 <img align="center" src=https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 <img align="center" src=https://img.shields.io/badge/PowerBI-41454A?style=for-the-badge&logo=Power%20BI&logoColor=white">
