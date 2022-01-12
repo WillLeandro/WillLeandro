@@ -32,18 +32,8 @@ Sou facinado por dados, de traçar planos e trazer soluções para transformar o
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-<!--- <img align="center" src=https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
+<!--- 
+<img align="center" src=https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
 
 ### Certificações 
 <img align="center" src=https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
