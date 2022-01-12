@@ -27,7 +27,7 @@ Sou facinado por dados, de traçar planos e trazer soluções para transformar o
 <img align="center" src=https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=pandas&logoColor=white"> 
   
   
-  https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
+<img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
   
   
 
