@@ -35,18 +35,20 @@ Sou facinado por dados, de traçar planos e trazer soluções para transformar o
 
 
 
-<!--<img align="center" src=https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
 
-### Certificações 
-<img align="center" src=https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
-
--->
 
 
 
 
 
 <!---
+
+<!-- <img align="center" src=https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
+
+### Certificações 
+<img align="center" src=https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
+
+-->
 - [Courses](https://www.treinaweb.com.br/cursos-online?q=fagner+pinheiro) 👨🏼‍🏫 - It's are technical courses on many technologies, such as Django, Flask, Python, Kotlin, Flutter, Dart, Git and more
                                                                                                                  <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green?style=for-the-badge&logo=pandas&logoColor=white">
 - [Blog](https://www.treinaweb.com.br/blog/author/fagner-pinheiro/) ✍🏼 - I'm write about many things.
