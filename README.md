@@ -24,25 +24,25 @@ div> --->
   
   <a href = "mailto:laswsdata@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leandro-alves-79683576/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<---
+
 ### Sobre mim
---->
-Sou facinado por dados, de traçar planos e trazer soluções para transformar o mundo, gosto de estar envolvido em projetos que possam me trazer novos conhecimentos e habilidades de raciocínio e poder melhorar a vida de alguém. 
+
+Sou curioso e encontrei uma área que venha satisfazer minha curiosidade, a de dados, atualmente venho estudando muito para desenvolver habilidades e compatências que essa área exige, gosto de traçar planos, criar soluções seja através de dados ou não, gosto de estar envolvido em projetos que possam me trazer novos conhecimentos e habilidades e poder melhorar a vida de alguém de alguma forma. 
 
 ### Skills
 
 <div style="display: inline_block"><br>
-<img align="center" src=https://img.shields.io/badge/Jupyter-F5FFFA.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
-<img align="center" src=https://img.shields.io/badge/Colab-F5FFFA.svg?&style=for-the-badge&logo=colab&logoColor=white">
-<img align="center" src=https://img.shields.io/badge/MySQL-F5FFFA?style=for-the-badge&logo=mysql&logoColor=white">
-<img align="center" src=https://img.shields.io/badge/PowerBI-F5FFFA?style=for-the-badge&logo=Power%20BI&logoColor=white">
-<img align="center" src=https://img.shields.io/badge/Tableau-F5FFFA?style=for-the-badge&logo=Tableau&logoColor=MediumBlue">  
-<img align="center" src=https://img.shields.io/badge/Python-F5FFFA?style=for-the-badge&logo=python&logoColor=white">
-<img align="center" src=https://img.shields.io/badge/Numpy-F5FFFA?style=for-the-badge&logo=numpy&logoColor=white">
-<img align="center" src=https://img.shields.io/badge/Pandas-F5FFFA?style=for-the-badge&logo=pandas&logoColor=white">
-<img align="center" src=https://img.shields.io/badge/Plotly-F5FFFA?style=for-the-badge&logo=plotly&logoColor=white">  
-<img align="center" src=https://img.shields.io/badge/BigQuery-F5FFFA?style=for-the-badge&logo=&logoColor=white">
-<img align="center" src=https://img.shields.io/badge/DataStudio-F5FFFA?style=for-the-badge&logo=&logoColor=">
+<img align="center" src=https://img.shields.io/badge/Jupyter-DCDCDC.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
+<img align="center" src=https://img.shields.io/badge/Colab-DCDCDC.svg?&style=for-the-badge&logo=colab&logoColor=white">
+<img align="center" src=https://img.shields.io/badge/MySQL-DCDCDC?style=for-the-badge&logo=mysql&logoColor=white">
+<img align="center" src=https://img.shields.io/badge/PowerBI-DCDCDC?style=for-the-badge&logo=Power%20BI&logoColor=white">
+<img align="center" src=https://img.shields.io/badge/Tableau-DCDCDC?style=for-the-badge&logo=Tableau&logoColor=MediumBlue">  
+<img align="center" src=https://img.shields.io/badge/Python-DCDCDC?style=for-the-badge&logo=python&logoColor=white">
+<img align="center" src=https://img.shields.io/badge/Numpy-DCDCDC?style=for-the-badge&logo=numpy&logoColor=white">
+<img align="center" src=https://img.shields.io/badge/Pandas-DCDCDC?style=for-the-badge&logo=pandas&logoColor=white">
+<img align="center" src=https://img.shields.io/badge/Plotly-DCDCDC?style=for-the-badge&logo=plotly&logoColor=white">  
+<img align="center" src=https://img.shields.io/badge/BigQuery-DCDCDC?style=for-the-badge&logo=&logoColor=white">
+<img align="center" src=https://img.shields.io/badge/DataStudio-DCDCDC?style=for-the-badge&logo=&logoColor=">
                                                                                                                  
                      
  
