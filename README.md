@@ -32,16 +32,16 @@ Sou facinado por dados, de traçar planos e trazer soluções para transformar o
 
 <div style="display: inline_block"><br>
 <img align="center" src=https://img.shields.io/badge/Jupyter-F5FFFA.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
-<img align="center" src=https://img.shields.io/badge/Colab-F9AB00.svg?&style=for-the-badge&logo=colab&logoColor=white">
-<img align="center" src=https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-<img align="center" src=https://img.shields.io/badge/PowerBI-41454A?style=for-the-badge&logo=Power%20BI&logoColor=white">
+<img align="center" src=https://img.shields.io/badge/Colab-F5FFFA.svg?&style=for-the-badge&logo=colab&logoColor=white">
+<img align="center" src=https://img.shields.io/badge/MySQL-F5FFFA?style=for-the-badge&logo=mysql&logoColor=white">
+<img align="center" src=https://img.shields.io/badge/PowerBI-F5FFFA?style=for-the-badge&logo=Power%20BI&logoColor=white">
 <img align="center" src=https://img.shields.io/badge/Tableau-F5FFFA?style=for-the-badge&logo=Tableau&logoColor=MediumBlue">  
 <img align="center" src=https://img.shields.io/badge/Python-F5FFFA?style=for-the-badge&logo=python&logoColor=white">
-<img align="center" src=https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
-<img align="center" src=https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
-<img align="center" src=https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=&logoColor=white">  
-<img align="center" src=https://img.shields.io/badge/BigQuery-00A8E1?style=for-the-badge&logo=&logoColor=white">
-<img align="center" src=https://img.shields.io/badge/DataStudio-18BFFF?style=for-the-badge&logo=&logoColor=">
+<img align="center" src=https://img.shields.io/badge/Numpy-F5FFFA?style=for-the-badge&logo=numpy&logoColor=white">
+<img align="center" src=https://img.shields.io/badge/Pandas-F5FFFA?style=for-the-badge&logo=pandas&logoColor=white">
+<img align="center" src=https://img.shields.io/badge/Plotly-F5FFFA?style=for-the-badge&logo=&logoColor=white">  
+<img align="center" src=https://img.shields.io/badge/BigQuery-F5FFFA?style=for-the-badge&logo=&logoColor=white">
+<img align="center" src=https://img.shields.io/badge/DataStudio-F5FFFA?style=for-the-badge&logo=&logoColor=">
                                                                                                                  
                      
  
