@@ -41,8 +41,8 @@ Sou curioso e encontrei uma área que venha satisfazer minha curiosidade, a de d
 <img align="center" src=https://img.shields.io/badge/Numpy-836FFF?style=for-the-badge&logo=numpy&logoColor=white">
 <img align="center" src=https://img.shields.io/badge/Pandas-483D8B?style=for-the-badge&logo=pandas&logoColor=white">
 <img align="center" src=https://img.shields.io/badge/Plotly-6959CD?style=for-the-badge&logo=plotly&logoColor=DCDCDC">  
-<img align="center" src=https://img.shields.io/badge/BigQuery-DCDCDC?style=for-the-badge&logo=&logoColor=white">
-<img align="center" src=https://img.shields.io/badge/DataStudio-DCDCDC?style=for-the-badge&logo=&logoColor=Data Studio">
+<img align="center" src=https://img.shields.io/badge/BigQuery-DCDCDC?style=for-the-badge&logo=&logoColor=Bigwhite">
+<img align="center" src=https://img.shields.io/badge/DataStudio-DCDCDC?style=for-the-badge&logo=&logoColor=DataStudio">
                                                                                                                  
                      
  
