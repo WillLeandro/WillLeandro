@@ -36,7 +36,7 @@ Sou facinado por dados, de traçar planos e trazer soluções para transformar o
 <img align="center" src=https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 <img align="center" src=https://img.shields.io/badge/PowerBI-41454A?style=for-the-badge&logo=Power%20BI&logoColor=white">
 <img align="center" src=https://img.shields.io/badge/Tableau-F5FFFA?style=for-the-badge&logo=Tableau&logoColor=MediumBlue">  
-<img align="center" src=https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=&logoColor=white">
+<img align="center" src=https://img.shields.io/badge/Python-F5FFFA?style=for-the-badge&logo=python&logoColor=white">
 <img align="center" src=https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
 <img align="center" src=https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
 <img align="center" src=https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=&logoColor=white">  
