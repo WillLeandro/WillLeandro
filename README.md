@@ -27,7 +27,7 @@ div> --->
 
 ### Sobre mim
 
-Sou curioso e encontrei uma área que venha satisfazer minha curiosidade, a de dados, atualmente venho estudando muito para desenvolver habilidades e compatências que essa área exige, gosto de traçar planos, criar soluções seja através de dados ou não, gosto de estar envolvido em projetos que possam me trazer novos conhecimentos e habilidades e poder melhorar a vida de alguém de alguma forma. 
+Sou curioso e encontrei uma área que venha satisfazer minha curiosidade, a de dados, atualmente venho estudando muito para desenvolver habilidades e compatências que essa área exige, gosto de traçar planos, criar soluções seja através de dados ou não, gosto de estar envolvido em projetos que possam me trazer novos conhecimentos, habilidades e depois poder melhorar a vida de alguém de alguma forma. 
 
 ### Skills
 
