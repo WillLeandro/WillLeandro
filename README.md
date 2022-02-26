@@ -31,12 +31,12 @@ Estudante de ciência de dados com foco em desenvolvimento de soluções para pr
 
 Cientista de dados júnior e Membro da comunidade DS
 
-# Projetos:
+## Projetos:
 
 #### Identificação de imóveis para compra e revenda a fim de maximizar o lucro da empresa.
      link: 
 
-### Análise do mercardo varejista de perfumaria com a marca Natura no e-commerce mercado livre.
+#### Análise do mercardo varejista de perfumaria com a marca Natura no e-commerce mercado livre.
      Link:
      
      
