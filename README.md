@@ -1,4 +1,4 @@
-# Oi, Sou Leandro Alves 😉
+# Portifólio de projetos em Ciência de Dados e Analise de Dados 😉
 <!---
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/fagnerpsantos)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/fagnerpsantos)
@@ -24,6 +24,7 @@ div> --->
   
   <a href = "mailto:laswsdata@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leandro-alves-79683576/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+Muito bem-vindo(a) ao meu portifólio de projetos em ciência de dados e análises de dados. Aqui você poderá observar e avalair meus projetos conluídos e aqueles atualmente em desenvolvimento.
 
 ### Sobre mim
 
