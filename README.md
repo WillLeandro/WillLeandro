@@ -22,8 +22,7 @@ You can click the Preview link to take a look at your changes.
 div> --->
 
   
-  <a href = "mailto:laswsdata@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leandro-alves-79683576/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   
 Muito bem-vindo(a) ao meu portifólio de projetos em ciência de dados e análises de dados. Aqui você poderá observar e avalair meus projetos conluídos e aqueles atualmente em desenvolvimento.
 
 ### Sobre mim:
@@ -33,6 +32,8 @@ Estudante de ciência de dados com foco em desenvolvimento de soluções para pr
 Cientista de dados júnior e Membro da comunidade DS
 
 ### Contatos:
+
+<a href = "mailto:laswsdata@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a> <a href="https://www.linkedin.com/in/leandro-alves-79683576/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <!---
 ### Skills
