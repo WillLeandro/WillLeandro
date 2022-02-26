@@ -1,4 +1,4 @@
-# Portifólio de projetos em Ciência de Dados e Analise de Dados 😉
+# Portifólio de projetos em Ciência de Dados e Análise de Dados.
 <!---
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/fagnerpsantos)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/fagnerpsantos)
@@ -28,8 +28,8 @@ Muito bem-vindo(a) ao meu portifólio de projetos em ciência de dados e anális
 
 ### Sobre mim
 
-Sou curioso e encontrei uma área que venha satisfazer minha curiosidade, a de dados, atualmente venho estudando muito para desenvolver habilidades e compatências que essa área exige, gosto de traçar planos, criar soluções seja através de dados ou não, gosto de estar envolvido em projetos que possam me trazer novos conhecimentos, habilidades e depois poder melhorar a vida de alguém de alguma forma. 
 
+<!---
 ### Skills
 
 <div style="display: inline_block"><br>
@@ -44,7 +44,7 @@ Sou curioso e encontrei uma área que venha satisfazer minha curiosidade, a de d
 <img align="center" src=https://img.shields.io/badge/Plotly-6959CD?style=for-the-badge&logo=plotly&logoColor=DCDCDC">  
 <img align="center" src=https://img.shields.io/badge/BigQuery-DCDCDC?style=for-the-badge&logo=&logoColor=Bigwhite">
 <img align="center" src=https://img.shields.io/badge/DataStudio-DCDCDC?style=for-the-badge&logo=&logoColor=DataStudio">
-                                                                                                                 
+--->                                                                                                                 
                      
  
   
