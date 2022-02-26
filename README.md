@@ -26,8 +26,13 @@ div> --->
   <a href="https://www.linkedin.com/in/leandro-alves-79683576/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 Muito bem-vindo(a) ao meu portifólio de projetos em ciência de dados e análises de dados. Aqui você poderá observar e avalair meus projetos conluídos e aqueles atualmente em desenvolvimento.
 
-### Sobre mim
+### Sobre mim:
 
+Estudante de ciência de dados com foco em desenvolvimento de soluções para problemas de negócio através da coleta, processamento de dados, e aplicação de moedelos de machine learning para melhorar os resultados do negócio.
+
+Cientista de dados júnior e Membro da comunidade DS
+
+### Contatos:
 
 <!---
 ### Skills
