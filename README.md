@@ -34,7 +34,7 @@ Cientista de dados júnior e Membro da comunidade DS
 ## Projetos:
 
 #### Identificação de imóveis para compra e revenda a fim de maximizar o lucro da empresa.
-     link: https://github.com/WillLeandro/projeto_insigth_House_rocket/tree/main
+     link: [https://github.com/WillLeandro/projeto_insigth_House_rocket/tree/main]
 
 #### Análise do mercardo varejista de perfumaria com a marca Natura no e-commerce mercado livre.
      Link:
