@@ -37,9 +37,8 @@ Cientista de dados júnior e Membro da comunidade DS
   <a href="https://github.com/WillLeandro/projeto_insigth_House_rocket/tree/main">Projeto House Rockte</a>.
 
 
-#### Análise do mercardo varejista de perfumaria com a marca Natura no e-commerce mercado livre.
-     Link:
-     
+#### Previsão de vendas em 6 semanas da rede de drogarias Rossmann
+  <a href="https://github.com/WillLeandro/projeto_rossmann_data_science">Projeto Rossmann</a>.
      
 
 ### Contatos:
