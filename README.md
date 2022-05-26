@@ -23,7 +23,7 @@ div> --->
 
   
    
-Muito bem-vindo(a) ao meu portifólio de projetos em ciência de dados e análises de dados. Aqui você poderá observar e avalair meus projetos conluídos e aqueles atualmente em desenvolvimento.
+Muito bem-vindo(a) ao meu portifólio de projetos em ciência de dados e análises de dados. Aqui você poderá observar e avalair meus projetos conluídos e aqueles em desenvolvimento.
 
 ### Sobre mim:
 
