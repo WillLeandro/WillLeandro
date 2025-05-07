@@ -27,9 +27,9 @@ Muito bem-vindo(a) ao meu portifólio de projetos em ciência de dados e anális
 
 ### Sobre mim:
 
-Estudante de ciência de dados com foco em desenvolvimento de soluções para problemas de negócio através da coleta, processamento de dados, e aplicação de moedelos de machine learning para melhorar os resultados do negócio.
+Profissional de dados com foco em desenvolvimento de soluções para problemas de negócio através da coleta, processamento de dados, e aplicação de moedelos de machine learning para melhorar os resultados do negócio.
 
-Cientista de dados júnior e Membro da comunidade DS
+Já atuei como Analista de dados, Líder de BI e Cientista de dados.
 
 ## Projetos:
 
