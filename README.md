@@ -1,4 +1,4 @@
-# Portifólio de projetos em Ciência de Dados e Análise de Dados.
+# Portifólio de projetos em Ciência e Análise de Dados.
 <!---
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/fagnerpsantos)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/fagnerpsantos)
@@ -23,7 +23,7 @@ div> --->
 
   
    
-Muito bem-vindo(a) ao meu portifólio de projetos em ciência de dados e análises de dados. Aqui você poderá observar e avalair meus projetos conluídos e aqueles em desenvolvimento.
+Muito bem-vindo(a) ao meu portifólio de projetos em ciência de dados e análises de dados. Aqui você poderá observar e avalair meus projetos concluídos e aqueles em desenvolvimento.
 
 ### Sobre mim:
 
